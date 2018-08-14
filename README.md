@@ -1,2 +1,2 @@
 To run:
-run 'npm start' in the app directory
+run 'npm install' and then 'npm start' in the app directory
