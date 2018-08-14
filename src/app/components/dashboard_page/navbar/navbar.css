@@ -1,0 +1,8 @@
+.user{
+    display: flex;
+    align-items: center;
+}
+
+.user > *{
+    margin: 0rem .5rem;
+}

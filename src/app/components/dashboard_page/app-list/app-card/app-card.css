@@ -1,0 +1,38 @@
+.App-card {
+  border: 1px solid #c5c4c4;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 2px 2px 20px #c5c5c5;
+}
+
+.App-card i {
+  color: gray;
+}
+
+.App-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  align-items: baseline;
+}
+
+.info > * {
+  margin-bottom: 1rem;
+}
+
+.App__platforms > * {
+  margin-right: 0.5rem;
+}
+
+.app-btns i:first-child{
+  margin-right:1rem 
+}
+
+.dummy_btns {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.dummy_btns > * {
+  margin-right: 1rem;
+}

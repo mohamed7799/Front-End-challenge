@@ -1,0 +1,22 @@
+.filter{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.filter__item{
+    margin: 0rem 2rem;
+    cursor: pointer;
+}
+
+.filter__item i{
+    pointer-events: none;
+}
+
+.filter__item:hover{
+    color: rgb(103, 212, 149);
+}
+
+.selected{
+    color:rgb(103, 212, 149);
+}
